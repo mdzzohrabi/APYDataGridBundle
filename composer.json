@@ -21,7 +21,7 @@
         {
             "name": "Masoud Zohrabi",
             "email": "mdzzohrabi@gmail.com"
-        },
+        }
     ],
     "require": {
         "php": ">=5.6",
